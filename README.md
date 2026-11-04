@@ -2,7 +2,7 @@
 
 Dashboard **Streamlit** interaktif untuk menyajikan hasil analisis data e-commerce:
 
-1. **Waktu Pengiriman vs Kepuasan Pelanggan** — menampilkan 10 kategori produk dengan waktu pengiriman terlama, dilengkapi review score dan jumlah pesanan.
+1. **Waktu Pengiriman vs Kepuasan Pelanggan** — menampilkan kategori produk dengan waktu pengiriman terlama, dilengkapi review score dan jumlah pesanan.
 2. **Segmentasi Pelanggan (RFM)** — analisis Recency, Frequency, Monetary yang membagi pelanggan ke dalam 4 segmen: Low, Mid, High, dan VIP.
 
 Dokumen ini menjelaskan cara menjalankan dashboard dari nol, mulai dari pembuatan virtual environment hingga perintah `streamlit run`.
