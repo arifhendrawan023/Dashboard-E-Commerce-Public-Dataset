@@ -1,0 +1,3 @@
+Tolong perbaiki logika di dashboard.py. Saat ini, metric cards (Rata-rata Waktu Kirim, Rata-rata Review Score, Total Pesanan) menghitung seluruh data yang lolos filter tanggal, tidak mengikuti jumlah kategori (Top N) yang ditampilkan di grafik batang.
+
+Tolong ubah agar nilai pada metric cards dihitung dari DataFrame yang sudah difilter berdasarkan Top N (jumlah kategori yang dipilih di slider). Jadi, jika slider diset ke 12, maka metric cards hanya menghitung data dari 12 kategori produk yang ada di grafik batang tersebut. Pastikan juga teks narasi di atasnya menyesuaikan.
